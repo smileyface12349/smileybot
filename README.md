@@ -1,4 +1,4 @@
-# smileybot
+# SmileyBot
 
 You can use this repository to seek support and post issues, although you should mainly use the Support Server (https://discord.gg/JrXtBpM)
 
@@ -9,7 +9,7 @@ You can use this repository to seek support and post issues, although you should
 SmileyBot is a fun bot with a whole variety of features, and loads being added all the time! It aims to provide functional features, along with fun ones in the most simplistic way possible. There are lots of hidden features that'll also help you out!
 SmileyBot is also a great addition to a community server, due to the fun (and some multiplayer) commands. It will also let you moderate the server with ease!
 
-<ins><big>Main features:</big></ins><br><br>
+<ins><big>Main features:</big></ins><br><br><br>
 	<ins>Moderation</ins>
     <br><br>
     Moderation contains <bold>loads</bold> of handy features that'll help you to moderate your discord server, including:
@@ -76,5 +76,7 @@ SmileyBot is also a great addition to a community server, due to the fun (and so
   	</ul>
     
 If you have any other questions, i'm always happy to help on the Support Server. 
+
+----------------------
 
 <small>This was last updated on 12/05/2018. If something is outdated, please contact smileyface12349#5377 on the Support Server (https://discord.gg/JrXtBpM)</small>
