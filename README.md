@@ -5,10 +5,11 @@ You can use this repository to seek support and post issues, although you should
 <a href="https://discordbots.org/bot/387322914183184384" >
   <img src="https://discordbots.org/api/widget/387322914183184384.svg" alt="Discord Music Bot" />
 </a>
+<br>
 
 SmileyBot is a fun bot with a whole variety of features, and loads being added all the time! It aims to provide functional features, along with fun ones in the most simplistic way possible. There are lots of hidden features that'll also help you out!
 SmileyBot is also a great addition to a community server, due to the fun (and some multiplayer) commands. It will also let you moderate the server with ease!
-<br><br><br>
+<br><br>
 __**Main features:**__
 <br><br>
 	<ins>Moderation</ins>
