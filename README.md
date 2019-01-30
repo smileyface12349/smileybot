@@ -1,4 +1,4 @@
-#SmileyBot
+# SmileyBot
 
 You may use this repository for issues, however it is recommended you use the [Support Server](https://discord.gg/JrXtBpM) for a quicker response.
 
