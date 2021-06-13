@@ -1,3 +1,5 @@
+## NOTE: This is very outdated and no longer used. Please visit https://smileyfacebots.xyz for up-to-date information
+
 # SmileyBot
 
 You may use this repository for issues, however it is recommended you use the [Support Server](https://discord.gg/JrXtBpM) for a quicker response.
