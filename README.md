@@ -1,4 +1,4 @@
-# SmileyBot
+# My Discord Bots
 
 SmileyBot has since been split up into multiple different bots. These bots have hundreds of different features, spanning over 80 thousand lines of code. 
 
